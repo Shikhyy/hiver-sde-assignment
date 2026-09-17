@@ -1,0 +1,28 @@
+# Environments
+venv/
+env/
+.venv/
+
+# Secrets and API Keys
+.env
+
+# Large Raw Datasets (Do NOT upload the 500MB file to GitHub)
+data/twcs.csv
+data/twcs/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env.bak/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
