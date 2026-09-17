@@ -5,3 +5,5 @@ python-dotenv
 tqdm
 pytest
 tenacity
+black
+mypy
